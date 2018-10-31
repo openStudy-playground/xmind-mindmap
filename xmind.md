@@ -6,6 +6,7 @@ itd
 				생활코딩(JQuery)    https://opentutorials.org/course/53/45 
 				강의 https://opentutorials.org/course/1688/9332
 				강의 http://poiemaweb.com/
+				html, css 정리집 (js약간, 원문) - http://htmldog.com/  
 				인프런 - https://www.inflearn.com/
 				교육 - http://tcpschool.com/
 				교육 - http://uxuiz.cafe24.com/wp/
@@ -45,11 +46,6 @@ itd
 				웹사이트 시안 - https://w3layouts.com/
 				정보처리기사 동영상 강의 - http://m.license.youngjin.com/mobile/sub_03/sub_03_movie.asp?l_no=34&intCategory=3&book_list_seq=101
 				2018온라인 코딩 파티 시즌1- https://codingparty.goorm.io/learn/lecture/3537/2018-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%8C%8C%ED%8B%B0-%EC%8B%9C%EC%A6%8C1/lesson/144116/%ED%81%B0-%EC%88%98%EC%99%80-%EC%9E%91%EC%9D%80-%EC%88%98%EC%9D%98-%ED%95%A9
-				JAVASCRIPT 
-					javascript Cookbook[설명] - https://mylko72.gitbooks.io/javascript-cookbook/content/index.html
-					MDN web docs - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
-					javascript로 만든 샘플 파일들  - https://speckyboy.com/category/javascript/
-					예제 - http://www.dynamicdrive.com/
 			시안&효과 사이트
 				외국고급 사이트
 					패럴렉스스크를링
@@ -204,6 +200,7 @@ https://designmodo.com/responsive-test/ - 레이아웃 검증 툴
 				테이블제네레이터 http://www.tablesgenerator.com/html_tables#
 				클립패스제네레이터[ clip ] - http://www.cssplant.com/clip-path-generator
 				클리핑 마스크 [clip mask] - https://css-tricks.com/clipping-masking-css/
+				text shadow 제네레이터 - http://psd-to-css-shadows.com/
 				버튼제네레이터 - http://css3buttongenerator.com/
 				애니메이션 제작기? -  http://animista.net/
 				코드쉐어(코드 같이보기) - https://codeshare.io
@@ -238,6 +235,7 @@ http://iyakiggun.blog.me/100165592587
 사용할시에는 css로 link시키고, 실제 코딩할땐 scss를 -w 돌려서 작업
 					sass 설명 [블로그] - https://chayeoi.com/til/20180124/
 					scss 스타일 가이드 - https://sass-guidelin.es/ko/
+					sass 함수 정리표 - http://sass-lang.com/documentation/Sass/Script/Functions.html
 			프리랜서
 				위시캣 https://www.wishket.com/project
 				프리누리 http://www.freenuri.co.kr/main/index.html
@@ -392,13 +390,6 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				멀티라인 [말줄임]처리와 폴백 - http://tobyyun.tumblr.com/post/55858430437/css%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%A9%80%ED%8B%B0%EB%9D%BC%EC%9D%B8-%EB%A7%90%EC%A4%84%EC%9E%84-%EC%B2%98%EB%A6%AC%EC%99%80-%ED%8F%B4%EB%B0%B1
 				runkit [코드 테스트기?]- https://runkit.com/home#notebooks
 				input type 종류 - https://blog.naver.com/heartflow89/221161705731
-				git 과  github - http://ingeec.tistory.com/50
-					git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
-					초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
-					개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
-					개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
-					git / github 개념 - http://gangju.tistory.com/12
-					명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 				(네이버)웹마스터도구:웹 표준 최적화 기본 가이드 - http://webmastertool.naver.com/guide/basic_optimize.naver#
 				사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 				사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
@@ -408,7 +399,6 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 				jquery transit - http://ricostacruz.com/jquery.transit/
 				탭기본기1 - http://jsfiddle.net/3n74v/
 				키프레임 jquery로 사용하기 https://www.npmjs.com/package/jquerykeyframes
-				sass 함수 정리표 - http://sass-lang.com/documentation/Sass/Script/Functions.html
 				글자 애니메이션 예제들 - https://tympanus.net/codrops/2018/01/10/decorative-letter-animations/
 				font-strech 속성? - https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch
 				이미지 경로 오류시 대체 이미지 설정 - http://secr.tistory.com/130
@@ -661,6 +651,8 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 				[후기] SI/대기업에서 스타트업으로 이직하기 - https://okky.kr/article/470785
 				[기사]고재도님 - http://www.bloter.net/archives/218402
 				[ 번역본 ] - https://github.com/topics/korean-docs
+				[토픽] ecma와 tc39 - https://ahnheejong.name/articles/ecmascript-tc39/?fbclid=IwAR3iVtf5_WxcupeLs_JO_WrPb7prdL8xFHAxb3R5dW6u0-DXWC8FaX0hJ44
+				[논문] [번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 - https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr
 			블로그 & 포트폴리오
 				[포폴]93년생 김나영씨 - http://nykim.net/
 				'퍼블리셔'단어 창시자 - 신현석님 블로그 - https://hyeonseok.com/pmwiki/
@@ -813,6 +805,11 @@ http://devjhs.tistory.com/109
 				https://api.jquery.com/selected-selector/
 				동적으로 객체 생성시 jquery 제어 방법    http://infodbbase.tistory.com/65
 			JAVASCRIPT[자바스크립트]
+				javascript Cookbook[설명] - https://mylko72.gitbooks.io/javascript-cookbook/content/index.html
+				자바스크립트와 이벤트 루프 - https://meetup.toast.com/posts/89
+				MDN web docs - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
+				javascript로 만든 샘플 파일들  - https://speckyboy.com/category/javascript/
+				예제 - http://www.dynamicdrive.com/
 				jquery 의 siblings 대체하기 - https://stackoverflow.com/questions/842336/is-there-a-way-to-select-sibling-nodes
 				디버깅 팁 14가지 - https://raygun.com/javascript-debugging-tips
 				es6 축약코딩 기법 19가지 - https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html
@@ -827,7 +824,12 @@ http://devjhs.tistory.com/109
 				자바스크립트는 어떻게 작동하는가?(2) : 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - 
 https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
 				깊은 복사 얕은 복사 - http://wanna-b.tistory.com/18
-				싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
+				패턴
+					SAM 패턴 [샘 패턴] 
+					싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
+					Observer 패턴 [ 옵저버 ] 
+					Pub-Sub 패턴(논문/구독) - 
+					FLUX 패턴
 				객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
 				이벤트 전파를 막는 4가지 방법 
 - e.preventDefault();
@@ -881,6 +883,7 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 					4가지 스타일 주는 방법 - https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 					react render props pattern - https://medium.com/@dev_momo/react-render-props-pattern-1c53a6b9645c
 					redux 또는 mobx를 통한 상태 관리 - https://velog.io/@velopert/redux-or-mobx
+					redux saga 번역본 - http://blog.mskim.me/posts/redux-saga
 					Source 
 						react simple tab1 - https://codepen.io/stephe17/pen/ZJmxrN
 						react tab1 - https://codepen.io/rudwnok/pen/RQZxxg
@@ -932,6 +935,13 @@ serve -s build
 					webpack4[웹팩4] - http://meetup.toast.com/posts/153
 					webpack + 스프링부트 기반의 개발환경 구축하기 - https://medium.com/@alvin.h/%EC%9B%B9%ED%8C%A9-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-87cd758e1eae
 				git [깃 깃허브]
+					git 과  github - http://ingeec.tistory.com/50
+						git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
+						초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+						개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
+						개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
+						git / github 개념 - http://gangju.tistory.com/12
+						명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 					.gitignore - 깃에 올릴때 불필요한 파일 및 폴더무시 - http://promobile.tistory.com/369
 					실습으로 배우는 깃 - https://learngitbranching.js.org/
 					깃허브로 취업하기 - https://sujinlee.me/professional-github/
@@ -978,7 +988,7 @@ http://tympanus.net/Tutorials/Animated3DBarChart/  3차원 입체 bar차트 Anim
 					함수형 프로그래밍
 						블로그1 - http://dev-momo.tistory.com/entry/Functional-Programming-in-Javascript
 						깃헙1 - https://github.com/hg-pyun/study-example/tree/functional/basic
-				electron [ 엘렉트론 ] - https://www.tutorialbook.co.kr/entry/Electron-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Hello-World?category=689805
+				electron [ 엘렉트론, 일렉트론 ] - https://www.tutorialbook.co.kr/entry/Electron-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Hello-World?category=689805
 			백
 				docker 설명 - https://okky.kr/article/485716
 				docker 설치 - http://www.realhanbit.co.kr/books/226/pages/2203/preview
@@ -1207,17 +1217,16 @@ https://hunter.io/email-verifier
 	자세히 읽어볼것 ( 목록에 추가 안됨 ) 
 		preloading?  - https://css-tricks.com/prefetching-preloading-prebrowsing/
 		2018 okky kon ( TDD ) - https://okky.kr/article/514367
-		
-		
-		
-	git commit 메시지 용 수정된 내역 정리
-		테스트1
+		모든 개발자가 알아야 하는 SOLID 원칙 - http://doublem.org/SOLID_SRP_OCP/
+		react hook - https://velog.io/@velopert/react-hooks
+		react redux [ 리덕스 ] - https://velopert.com/1225
 WEB
 	사이트
 		교육
 			생활코딩(JQuery)    https://opentutorials.org/course/53/45 
 			강의 https://opentutorials.org/course/1688/9332
 			강의 http://poiemaweb.com/
+			html, css 정리집 (js약간, 원문) - http://htmldog.com/  
 			인프런 - https://www.inflearn.com/
 			교육 - http://tcpschool.com/
 			교육 - http://uxuiz.cafe24.com/wp/
@@ -1257,11 +1266,6 @@ WEB
 			웹사이트 시안 - https://w3layouts.com/
 			정보처리기사 동영상 강의 - http://m.license.youngjin.com/mobile/sub_03/sub_03_movie.asp?l_no=34&intCategory=3&book_list_seq=101
 			2018온라인 코딩 파티 시즌1- https://codingparty.goorm.io/learn/lecture/3537/2018-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%8C%8C%ED%8B%B0-%EC%8B%9C%EC%A6%8C1/lesson/144116/%ED%81%B0-%EC%88%98%EC%99%80-%EC%9E%91%EC%9D%80-%EC%88%98%EC%9D%98-%ED%95%A9
-			JAVASCRIPT 
-				javascript Cookbook[설명] - https://mylko72.gitbooks.io/javascript-cookbook/content/index.html
-				MDN web docs - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
-				javascript로 만든 샘플 파일들  - https://speckyboy.com/category/javascript/
-				예제 - http://www.dynamicdrive.com/
 		시안&효과 사이트
 			외국고급 사이트
 				패럴렉스스크를링
@@ -1416,6 +1420,7 @@ https://designmodo.com/responsive-test/ - 레이아웃 검증 툴
 			테이블제네레이터 http://www.tablesgenerator.com/html_tables#
 			클립패스제네레이터[ clip ] - http://www.cssplant.com/clip-path-generator
 			클리핑 마스크 [clip mask] - https://css-tricks.com/clipping-masking-css/
+			text shadow 제네레이터 - http://psd-to-css-shadows.com/
 			버튼제네레이터 - http://css3buttongenerator.com/
 			애니메이션 제작기? -  http://animista.net/
 			코드쉐어(코드 같이보기) - https://codeshare.io
@@ -1450,6 +1455,7 @@ http://iyakiggun.blog.me/100165592587
 사용할시에는 css로 link시키고, 실제 코딩할땐 scss를 -w 돌려서 작업
 				sass 설명 [블로그] - https://chayeoi.com/til/20180124/
 				scss 스타일 가이드 - https://sass-guidelin.es/ko/
+				sass 함수 정리표 - http://sass-lang.com/documentation/Sass/Script/Functions.html
 		프리랜서
 			위시캣 https://www.wishket.com/project
 			프리누리 http://www.freenuri.co.kr/main/index.html
@@ -1604,13 +1610,6 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			멀티라인 [말줄임]처리와 폴백 - http://tobyyun.tumblr.com/post/55858430437/css%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%A9%80%ED%8B%B0%EB%9D%BC%EC%9D%B8-%EB%A7%90%EC%A4%84%EC%9E%84-%EC%B2%98%EB%A6%AC%EC%99%80-%ED%8F%B4%EB%B0%B1
 			runkit [코드 테스트기?]- https://runkit.com/home#notebooks
 			input type 종류 - https://blog.naver.com/heartflow89/221161705731
-			git 과  github - http://ingeec.tistory.com/50
-				git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
-				초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
-				개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
-				개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
-				git / github 개념 - http://gangju.tistory.com/12
-				명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 			(네이버)웹마스터도구:웹 표준 최적화 기본 가이드 - http://webmastertool.naver.com/guide/basic_optimize.naver#
 			사용자 정의 css속성 사용하기 - https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_variables
 			사용자 정의 html속성 사용하기 - https://en.bem.info/methodology/naming-convention/
@@ -1620,7 +1619,6 @@ https://medium.com/@kyo504/gist%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%E
 			jquery transit - http://ricostacruz.com/jquery.transit/
 			탭기본기1 - http://jsfiddle.net/3n74v/
 			키프레임 jquery로 사용하기 https://www.npmjs.com/package/jquerykeyframes
-			sass 함수 정리표 - http://sass-lang.com/documentation/Sass/Script/Functions.html
 			글자 애니메이션 예제들 - https://tympanus.net/codrops/2018/01/10/decorative-letter-animations/
 			font-strech 속성? - https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch
 			이미지 경로 오류시 대체 이미지 설정 - http://secr.tistory.com/130
@@ -1873,6 +1871,8 @@ http://gnustudy.com/bbs/board.php?bo_table=sitelink&wr_id=2
 			[후기] SI/대기업에서 스타트업으로 이직하기 - https://okky.kr/article/470785
 			[기사]고재도님 - http://www.bloter.net/archives/218402
 			[ 번역본 ] - https://github.com/topics/korean-docs
+			[토픽] ecma와 tc39 - https://ahnheejong.name/articles/ecmascript-tc39/?fbclid=IwAR3iVtf5_WxcupeLs_JO_WrPb7prdL8xFHAxb3R5dW6u0-DXWC8FaX0hJ44
+			[논문] [번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 - https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr
 		블로그 & 포트폴리오
 			[포폴]93년생 김나영씨 - http://nykim.net/
 			'퍼블리셔'단어 창시자 - 신현석님 블로그 - https://hyeonseok.com/pmwiki/
@@ -2025,6 +2025,11 @@ http://devjhs.tistory.com/109
 			https://api.jquery.com/selected-selector/
 			동적으로 객체 생성시 jquery 제어 방법    http://infodbbase.tistory.com/65
 		JAVASCRIPT[자바스크립트]
+			javascript Cookbook[설명] - https://mylko72.gitbooks.io/javascript-cookbook/content/index.html
+			자바스크립트와 이벤트 루프 - https://meetup.toast.com/posts/89
+			MDN web docs - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
+			javascript로 만든 샘플 파일들  - https://speckyboy.com/category/javascript/
+			예제 - http://www.dynamicdrive.com/
 			jquery 의 siblings 대체하기 - https://stackoverflow.com/questions/842336/is-there-a-way-to-select-sibling-nodes
 			디버깅 팁 14가지 - https://raygun.com/javascript-debugging-tips
 			es6 축약코딩 기법 19가지 - https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html
@@ -2039,7 +2044,12 @@ http://devjhs.tistory.com/109
 			자바스크립트는 어떻게 작동하는가?(2) : 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - 
 https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
 			깊은 복사 얕은 복사 - http://wanna-b.tistory.com/18
-			싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
+			패턴
+				SAM 패턴 [샘 패턴] 
+				싱글톤 패턴 - http://blog.javarouka.me/2012/02/javascripts-pattern-1-singeton-patterrn.html
+				Observer 패턴 [ 옵저버 ] 
+				Pub-Sub 패턴(논문/구독) - 
+				FLUX 패턴
 			객체지향 프로그래밍 5 원칙 - https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
 			이벤트 전파를 막는 4가지 방법 
 - e.preventDefault();
@@ -2093,6 +2103,7 @@ https://www.zerocho.com/category/JavaScript/post/572c6f759a5f1c4db2481ee3
 				4가지 스타일 주는 방법 - https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 				react render props pattern - https://medium.com/@dev_momo/react-render-props-pattern-1c53a6b9645c
 				redux 또는 mobx를 통한 상태 관리 - https://velog.io/@velopert/redux-or-mobx
+				redux saga 번역본 - http://blog.mskim.me/posts/redux-saga
 				Source 
 					react simple tab1 - https://codepen.io/stephe17/pen/ZJmxrN
 					react tab1 - https://codepen.io/rudwnok/pen/RQZxxg
@@ -2144,6 +2155,13 @@ serve -s build
 				webpack4[웹팩4] - http://meetup.toast.com/posts/153
 				webpack + 스프링부트 기반의 개발환경 구축하기 - https://medium.com/@alvin.h/%EC%9B%B9%ED%8C%A9-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-87cd758e1eae
 			git [깃 깃허브]
+				git 과  github - http://ingeec.tistory.com/50
+					git pro pdf 버전 - https://progit2.s3.amazonaws.com/ko/2015-07-08-5c390/progit-ko.582.pdf
+					초심자를 위한 git 협업 - https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+					개발바보들 1화 git back to the fucher? - http://www.devpools.kr/2017/01/31/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-1%ED%99%94-git-back-to-the-future/
+					개발바보들 2화 git stash - http://www.devpools.kr/2017/02/27/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-2%ED%99%94-git-stash/
+					git / github 개념 - http://gangju.tistory.com/12
+					명령어 커스텀 하기 - https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
 				.gitignore - 깃에 올릴때 불필요한 파일 및 폴더무시 - http://promobile.tistory.com/369
 				실습으로 배우는 깃 - https://learngitbranching.js.org/
 				깃허브로 취업하기 - https://sujinlee.me/professional-github/
@@ -2190,7 +2208,7 @@ http://tympanus.net/Tutorials/Animated3DBarChart/  3차원 입체 bar차트 Anim
 				함수형 프로그래밍
 					블로그1 - http://dev-momo.tistory.com/entry/Functional-Programming-in-Javascript
 					깃헙1 - https://github.com/hg-pyun/study-example/tree/functional/basic
-			electron [ 엘렉트론 ] - https://www.tutorialbook.co.kr/entry/Electron-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Hello-World?category=689805
+			electron [ 엘렉트론, 일렉트론 ] - https://www.tutorialbook.co.kr/entry/Electron-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Hello-World?category=689805
 		백
 			docker 설명 - https://okky.kr/article/485716
 			docker 설치 - http://www.realhanbit.co.kr/books/226/pages/2203/preview
@@ -2419,9 +2437,7 @@ https://hunter.io/email-verifier
 자세히 읽어볼것 ( 목록에 추가 안됨 ) 
 	preloading?  - https://css-tricks.com/prefetching-preloading-prebrowsing/
 	2018 okky kon ( TDD ) - https://okky.kr/article/514367
-	
-	
-	
-git commit 메시지 용 수정된 내역 정리
-	테스트1
+	모든 개발자가 알아야 하는 SOLID 원칙 - http://doublem.org/SOLID_SRP_OCP/
+	react hook - https://velog.io/@velopert/react-hooks
+	react redux [ 리덕스 ] - https://velopert.com/1225
 ```
